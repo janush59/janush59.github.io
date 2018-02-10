@@ -73,7 +73,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #7bc3d1;
+	background: #005A31;
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
@@ -89,7 +89,7 @@ hr {
 }
 .navbar-custom {
 	margin-bottom: 0;
-	background-color: #121d1f;
+	background-color: #005A31;
 	border-radius: 0px;
 	padding: 10px 0;
 }
@@ -243,6 +243,7 @@ video {
 
 #about {
 	padding: 100px 0;
+	background: #CBE32D;
 }
 #about .about-text {
 	margin-left: 10px;
@@ -305,14 +306,14 @@ video {
 /* Portfolio Section */
 #portfolio {
 	padding: 80px 0;
-	background: #ffffff; /* Old browsers */
-	background: -moz-linear-gradient(top, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(49%, #f4f5f6), color-stop(100%, #ffffff)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* IE10+ */
-	background: linear-gradient(to bottom, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=0 ); /* IE6-9 */
+	background: #F3FAB6; /* Old browsers */
+	background: -moz-linear-gradient(top, #F3FAB6 0%, #f4f5f6 49%, #F3FAB6 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F3FAB6), color-stop(49%, #f4f5f6), color-stop(100%, #F3FAB6)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #F3FAB6 0%, #f4f5f6 49%, #F3FAB6 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #F3FAB6 0%, #f4f5f6 49%, #F3FAB6 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #F3FAB6 0%, #f4f5f6 49%, #F3FAB6 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #F3FAB6 0%, #f4f5f6 49%, #F3FAB6 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F3FAB6', endColorstr='#F3FAB6', GradientType=0 ); /* IE6-9 */
 }
 .categories {
 	padding-bottom: 30px;
@@ -568,7 +569,7 @@ ol.type li a:hover {
 #contact {
 	padding: 100px 0 40px 0;
 	color: #121d1f;
-	background: #7bc3d1;
+	background: #CBE32D;
 }
 #contact h2 {
 	color: #fff;
