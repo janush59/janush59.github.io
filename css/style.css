@@ -327,7 +327,7 @@ ol.type li {
 	margin-left: 20px;
 }
 ol.type li a {
-	background: #7bc3d1;
+	background: #CBE32D;
 	color: #fff;
 	padding: 6px 14px;
 }
@@ -575,7 +575,7 @@ ol.type li a:hover {
 	color: #fff;
 }
 #contact hr {
-	background: rgba(255,255,255,0.3);
+	background: #005A31;
 }
 #contact h3 {
 	padding-top: 20px;
@@ -675,7 +675,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer Section*/
 #footer {
-	background: #121d1f;
+	background: #005A31;
 	color: #7d8384;
 	padding: 30px 0 25px 0;
 }
